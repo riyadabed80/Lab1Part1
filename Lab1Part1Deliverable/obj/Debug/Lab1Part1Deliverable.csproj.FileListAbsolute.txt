@@ -1,0 +1,7 @@
+C:\Users\rayab\Desktop\Lab1Part1Deliverable\Lab1Part1Deliverable\bin\Debug\Lab1Part1Deliverable.exe.config
+C:\Users\rayab\Desktop\Lab1Part1Deliverable\Lab1Part1Deliverable\bin\Debug\Lab1Part1Deliverable.exe
+C:\Users\rayab\Desktop\Lab1Part1Deliverable\Lab1Part1Deliverable\bin\Debug\Lab1Part1Deliverable.pdb
+C:\Users\rayab\Desktop\Lab1Part1Deliverable\Lab1Part1Deliverable\obj\Debug\Lab1Part1Deliverable.csprojResolveAssemblyReference.cache
+C:\Users\rayab\Desktop\Lab1Part1Deliverable\Lab1Part1Deliverable\obj\Debug\Lab1Part1Deliverable.csproj.CoreCompileInputs.cache
+C:\Users\rayab\Desktop\Lab1Part1Deliverable\Lab1Part1Deliverable\obj\Debug\Lab1Part1Deliverable.exe
+C:\Users\rayab\Desktop\Lab1Part1Deliverable\Lab1Part1Deliverable\obj\Debug\Lab1Part1Deliverable.pdb
